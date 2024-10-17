@@ -16,7 +16,9 @@ console.log('JS OK');
 
 //! Procedimento
 // Creare lista email 
+const emailList = ['filipet@gmail.com','gianma@icloud.com','franci@outlook.com','marco@libero.it'];
 // Chiedere all'utente la sua email;
+const addUserEmail = prompt('inserisci la tua e-mail');
 // controllare che sia nella lista email di chi può accedere:
 //  SE
 //    è nella lista, stampare messaggio OK;
@@ -25,8 +27,8 @@ console.log('JS OK');
 
 
 
-const email =
-const addUserEmail = prompt('inserisci la tua e-mail');
+
+
 
 
 
