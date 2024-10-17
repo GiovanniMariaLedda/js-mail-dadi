@@ -9,11 +9,24 @@ console.log('JS OK');
 
 
 //Mail
+//! Raccolta dati
 // Chiedi all'utente la sua email,
 // controlla che sia nella lista di chi può accedere,
 // stampa un messaggio appropriato sull'esito del controllo.
 
-const email = prompt('inserisci la tua e-mail');
+//! Procedimento
+// Creare lista email 
+// Chiedere all'utente la sua email;
+// controllare che sia nella lista email di chi può accedere:
+//  SE
+//    è nella lista, stampare messaggio OK;
+//  ALTRIMENTI 
+//    Stampare messaggio d'insuccesso.
+
+
+
+const email =
+const addUserEmail = prompt('inserisci la tua e-mail');
 
 
 
